@@ -9,4 +9,4 @@
 
 |  ID  | Title                               |                C/C++(附分析)                | 备注                       |
 | :--: | :---------------------------------- | :--------------------------------------: | :----------------------- |
-| 1001 | A+B Format (20)                     | [查看题解](https://github.com/16207220/archives/1888) | 字符串处理                    |
+| 1001 | A+B Format (20)                     | [查看题解](https://github.com/xvbolai/PAT/blob/master/PAT%20(Advanced%20Level)%20Practice/1001%20A%2BB%20Format%20%EF%BC%8820%20point(s)%EF%BC%89.cpp) | 字符串处理                    |
